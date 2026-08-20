@@ -6,7 +6,7 @@
 
 Запись встречи · живой транскрипт · понятный конспект
 
-[Сайт](https://ilvl.ru) · [Скачать последнюю версию](https://ilvl.ru/download/) · [Сообщить о проблеме](https://github.com/agadzhanyan/ilvl/issues)
+[Сайт](https://ilvl.ru) · [Скачать последнюю версию](https://ilvl.ru/download/) · [Поддержка в Telegram](https://t.me/rockstardavid)
 
 </div>
 
@@ -78,4 +78,4 @@ ilvl работает с Zoom, Google Meet, Microsoft Teams, Яндекс Тел
 
 ## Поддержка
 
-Если что-то не работает или есть идея для улучшения, [создайте issue](https://github.com/agadzhanyan/ilvl/issues).
+Чтобы сообщить о проблеме или задать вопрос, напишите [@rockstardavid в Telegram](https://t.me/rockstardavid).
